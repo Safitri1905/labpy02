@@ -1,10 +1,10 @@
 # Data Diri
 
-Nama : Zizantara Arzeva Cakra Kahana
+Nama : Safitri Eka Ramadhani
 
-NIM : 312410398
+NIM : 312410431
 
-Kelas : TI,24.A.3
+Kelas : TI.24.A.3
 
 # Menghitung Tiket Bioskop
 
