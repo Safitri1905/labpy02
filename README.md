@@ -65,8 +65,4 @@ Kelas : TI.24.A.3
 1. Masukan angka pertama
 2. Masukan Operator aritmatika yang di inginkan
 3. Masukan angka kedua 
-<<<<<<< HEAD
 4. Program akan menampilkan hasil perhitungan
-=======
-4. Program akan menampilkan hasil perhitungan
->>>>>>> 781ee0e658ef0a6039f648d50655d49eb2fa4fdc
